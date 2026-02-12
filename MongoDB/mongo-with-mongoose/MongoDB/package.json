@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-page-and-limit",
+  "name": "mongodb",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
-    "mongoose": "^9.2.1"
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.1.6"
   }
 }
